@@ -15,6 +15,7 @@ I am passionate about programming as it has unlimited potential to solving real-
 ![](https://img.shields.io/badge/Code-C_sharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 
