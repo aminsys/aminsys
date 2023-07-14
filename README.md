@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/aminsys/aminsys/main/wave.gif" width="30px">
 
 My name is Amin and I'm a Software developer.
 
