@@ -23,3 +23,13 @@ I am passionate about programming as it has unlimited potential to solving real-
 
 ![](https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aminsys&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aminsys&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsys&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aminsys&icon=7&color=1)](https://visitcount.itsvg.in)
