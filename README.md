@@ -10,12 +10,8 @@ I am passionate about programming as it has unlimited potential to solving real-
 
 ## 🔧 Technologies & Tools that I use (professionally or privately)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Pop!_OS-informational?style=flat&logo=Pop!_OS&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/C_sharp-informational?style=flat&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 
